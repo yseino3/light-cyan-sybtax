@@ -1,0 +1,15 @@
+{
+  "name": "light-blue-cyan-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Background color:White _ Main text colors: Cyan,Blue",
+  "keywords": [
+    "syntax", "light","cyan","blue","white"
+    "theme"
+  ],
+  "repository": "https://github.com/yseino3/light-cyan-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
